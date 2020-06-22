@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7022c064-b31d-4f87-958b-67aad53bbfaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c1i32IPIbJ6g7Cq9hnqIUvVNAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7022c064-b31d-4f87-958b-67aad53bbfaf" name="Default Changelist" comment="" />
+      <created>1589702297833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589702297833</updated>
+      <workItem from="1589702352465" duration="108000" />
+      <workItem from="1592213952526" duration="3760000" />
+      <workItem from="1592362483689" duration="3147000" />
+      <workItem from="1592531378017" duration="847000" />
+      <workItem from="1592796065572" duration="5645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom" timestamp="1592813276963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.-365.2560.1417@0.0.1440.900" timestamp="1592811908681" />
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.-388.2560.1440@0.0.1440.900" timestamp="1592813276963" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center" timestamp="1592813276962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.0.1440.900/-2560.-365.2560.1417@0.0.1440.900" timestamp="1592811908680" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.0.1440.900/-2560.-388.2560.1440@0.0.1440.900" timestamp="1592813276962" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left" timestamp="1592813276961">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.0.1440.900/-2560.-365.2560.1417@0.0.1440.900" timestamp="1592811908679" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.0.1440.900/-2560.-388.2560.1440@0.0.1440.900" timestamp="1592813276961" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right" timestamp="1592813276962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.0.1440.900/-2560.-365.2560.1417@0.0.1440.900" timestamp="1592811908681" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.0.1440.900/-2560.-388.2560.1440@0.0.1440.900" timestamp="1592813276962" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$fast.coverage" NAME="fast Coverage Results" MODIFIED="1592813515503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
